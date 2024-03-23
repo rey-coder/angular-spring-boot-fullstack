@@ -48,5 +48,5 @@ Contributions to improve this project are welcome! Please follow these guideline
 
 ### License
 
-Do What The F*ck You Want To Public License. [WTFPL] (https://choosealicense.com/licenses/wtfpl/#)
+Do What The F*ck You Want To Public License. [WTFPL](https://choosealicense.com/licenses/wtfpl/#, "WTFPL")
 
