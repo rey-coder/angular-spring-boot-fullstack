@@ -1,0 +1,8 @@
+## YAML Template.
+---
+
+spring:
+    application:
+        name: ng-springboot
+    profiles:
+        active: local

@@ -1,0 +1,15 @@
+## YAML Template.
+---
+
+server:
+    port: 8080
+    error:
+        whitelabel:
+            enabled: false
+            
+spring:
+    config:
+        activate:
+            on-profile: local
+    resources:
+        static-locations: classpath:/static/
